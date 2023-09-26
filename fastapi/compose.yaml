@@ -9,3 +9,4 @@ services:
     ports:
       - '10000:10000'
     restart: "no"
+    
